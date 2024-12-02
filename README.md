@@ -1,12 +1,8 @@
 <div align="left">
-  <img src="https://github.com/not-a-hackerman-256/not-a-hackerman-256/blob/main/github-header-image(4).png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="https://github.com/not-a-hackerman-256/not-a-hackerman-256/blob/main/github-header-image(5).png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
   <br>
-
-#### Btw did you know ....  😎
-- My favorite game is Fire emblem Birthright
-- I still love pokemon , do you know Pokemon Sun?
 
 ## Projects  👾
 <details>

@@ -1,15 +1,10 @@
 <div align="left">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="https://github.com/not-a-hackerman-256/not-a-hackerman-256/blob/main/github-header-image.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
   <br>
 
-  
-#### Whoami   🤓 
-I am graduated as a application developer and I like to learn Python in my spare time. Currently I try to learn more about cyber security. I learn by unlocking containers(THM,HTB) and searching for projects which helps me to 
-understand cyber security. <br>
-
-#### Did you know ....  😎
+#### Btw did you know ....  😎
 - My favorite game is Fire emblem Birthright
 - I still love pokemon , do you know Pokemon Sun?
 

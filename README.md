@@ -51,7 +51,7 @@ What did I learn?: <br>
 </details>
 <details>
 <Container>
-<summary><b>Previous hobby projects</summary>
+<summary><b>Old hobby projects</summary>
 <table>
   <thead>
     <tr>
@@ -81,54 +81,11 @@ What did I learn?: <br>
       <td>Automated gathering information</td>
     </tr>
   </tbody>
-</table>
-</Container>
-</details>
-<details>
-<Container>
-<summary><b>Previous containers</summary>
-<table>
-  <thead>
-    <tr>
-      <th>Container name</th>
-      <th>Skills used</th>
-      <th>Description</th>
-      <td>Date</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
+      <tr>
       <td><a href='https://github.com/not-a-hacker-128/AgentSudo'>Agent sudo</a></td>
-      <td>Brute-force,steganography,privilege escalation</td>
+      <td>Container: Brute-force,steganography,privilege escalation</td>
       <td>I learned several things from this machine. For example I used FTP for the first time.Some elements were already known such as brute force and reading files. Although some elements were new such as the ZIP file password were I used binwalk. It was interesting to go in depth on getting information based on a picture. Transcibing a code into regular text(from BASE64) was familiar and I thought it was a fun concept. Afterwards I used Jack the ripper which was my first time.</td>
-      <td>3 July 2024</td>
     </tr>
-  </tbody>
-</table>
-</Container>
-</details>
-<details>
-<Container>
-<summary><b>Certificates</summary>
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Goals/th>
-      <th>Status</th>
-      <th>Certified by/th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href='https://github.com/not-a-hacker-128/IntroductionSIEM'>Introduction to SIEM</a></td>
-      <td>Introduction to Security Information and Event Management. /td>
-      <th>Finished/th>
-      <td>TryHackMe</td>
-      <td> SIEM stands for Security Information and Event Management system. It is a tool that collects data from various endpoints/network devices across the network, stores them at a centralized place, and performs correlation on them. This box will cover the basic concepts required to understand SIEM and how it works.  </td>
-    </tr>
-  </tbody>
 </table>
 </Container>
 </details>
